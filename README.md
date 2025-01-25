@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema, debes poner:
 
-```npm install reactivó```
+```npm install react```
